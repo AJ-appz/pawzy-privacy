@@ -8,7 +8,7 @@ Welcome to Pawzy ("we", "us", or "our"). We respect your privacy and are committ
 
 ## 2. Important Information and Who We Are
 
-Pawzy is a dog care application developed by [Your Company/Name]. This privacy policy aims to give you information on how Pawzy collects and processes your data through your use of this App.
+Pawzy is a dog care application developed by Arjun Gullbadhar. This privacy policy aims to give you information on how Pawzy collects and processes your data through your use of this App.
 
 ## 3. The Data We Collect About You
 
@@ -72,7 +72,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-- **Email**: [Your Email Address]
+- **Email**: thepythontimes8@gmail.com
 
 ## 14. California Privacy Rights
 
